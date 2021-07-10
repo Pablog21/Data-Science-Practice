@@ -1,4 +1,4 @@
-# Data-Science-Practice
+# Data-Science-Projects
 A place for organize my Data Science projects! 
 
 LIST OF PROJECTS:
