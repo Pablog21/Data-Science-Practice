@@ -6,3 +6,5 @@ LIST OF PROJECTS:
 1-DECISION TREES PRACTICE ____________(Python - Numpy - Pandas - SKLearn - Matploblib) 
 
 2-LOGISTIC REGRESION PRACTICE WITH TELECOMUNICATIONS____________(Python - Pandas - PyLab - Numpy - SciKit Learn)
+
+3-SVM (Support Vector Machines) CANCER CELLS____________(Python - Pandas - PyLab - Numpy - SciKit Learn - SVM - Matploblib)
