@@ -10,3 +10,5 @@ LIST OF PROJECTS:
 3-SVM (Support Vector Machines) CANCER CELLS____________(Python - Pandas - PyLab - Numpy - SciKit Learn - SVM - Matploblib)
 
 4-K-MEANS CLUSTERING____________(Python - Pandas  - Numpy - SciKit Learn  - Matploblib - K MEANS - 3D Graphics)
+
+5-HIERARCHICAL CLUSTERING PRACTICE____________(Python - Pandas  - Numpy - SciKit Learn  - SCYPY-  Matploblib - Cluster Hierarchy - Dendograms)
