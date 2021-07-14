@@ -14,3 +14,7 @@ LIST OF PROJECTS:
 5-HIERARCHICAL CLUSTERING PRACTICE____________(Python - Pandas  - Numpy - SciKit Learn  - SCYPY-  Matploblib - Cluster Hierarchy - Dendograms)
 
 6-DENSITY BASED CLUSTERING PRACTICE with Weather Stations DataSet____________(Python - Pandas  - Numpy - SciKit Learn  - DBSCAN -  Matploblib - BASE MAP)
+
+7- RECOMMENDATION SYSTEM WITH COLLABORATIVE FILTERING____________(Python - Pandas  - Numpy - Math)
+
+
