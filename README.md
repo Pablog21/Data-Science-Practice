@@ -15,6 +15,6 @@ LIST OF PROJECTS:
 
 6-DENSITY BASED CLUSTERING PRACTICE with Weather Stations DataSet____________(Python - Pandas  - Numpy - SciKit Learn  - DBSCAN -  Matploblib - BASE MAP)
 
-7- RECOMMENDATION SYSTEM WITH COLLABORATIVE FILTERING____________(Python - Pandas  - Numpy - Math)
+7- RECOMMENDATION SYSTEM WITH CONTENT BASED FILTERING____________(Python - Pandas  - Numpy - Math)
 
 
