@@ -17,4 +17,6 @@ LIST OF PROJECTS:
 
 7- RECOMMENDATION SYSTEM WITH CONTENT BASED FILTERING____________(Python - Pandas  - Numpy - Math)
 
+8- RECOMMENDATION SYSTEM WITH COLLABORATIVE FILTERING____________(Python - Pandas  - Numpy - Math)
+
 
